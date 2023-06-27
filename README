@@ -1,7 +1,11 @@
 # Testing
 
-This is a description of testing.
+This is a description of testing. git add . git commit -m "message" git push
 
 ## Subheader
 
 Here's some more text!!!
+
+## Local Development
+
+1. Open index.html in your browser.
